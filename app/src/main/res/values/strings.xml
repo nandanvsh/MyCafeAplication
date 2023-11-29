@@ -1,0 +1,61 @@
+<resources>
+    <string name="app_name">BangkitApp</string>
+
+    <string name="foods_name">Nama Makanan</string>
+    <string name="description">Deskripsi</string>
+    <string name="my_name">Ananda Navisha</string>
+    <string name="email">a227bsx2016@bangkit.academy</string>
+    <string name="country">Negara Asal</string>
+    <string name="button">Share</string>
+    <string-array name="food_list">
+        <item>Burger</item>
+        <item>Donat</item>
+        <item>Mie Ayam</item>
+        <item>Pizza</item>
+        <item>Rendang</item>
+        <item>Sate</item>
+        <item>Sosis</item>
+        <item>Soto</item>
+        <item>Steak</item>
+        <item>Sushi</item>
+    </string-array>
+
+    <string-array name="list_country">
+        <item>Amerika</item>
+        <item>Amerika</item>
+        <item>Indonesia</item>
+        <item>Italia</item>
+        <item>Indonesia</item>
+        <item>Indonesia</item>
+        <item>Jerman</item>
+        <item>Indonesia</item>
+        <item>Amerika</item>
+        <item>Jepang</item>
+    </string-array>
+
+    <string-array name="list_description">
+        <item>Burger adalah sejenis makanan yang terdiri dari sepotong daging cincang, biasanya daging sapi atau ayam, yang dibentuk menjadi patty dan kemudian dipanggang atau digoreng. Patty diletakkan di dalam sepotong roti bundar yang seringkali diiris menjadi dua bagian, yang disebut bun. burger atau hamburger menjadi, makanan khas Amerika yang sangat populer. </item>
+        <item>Donat adalah makanan ringan yang terbuat dari adonan berbasis tepung terigu, gula, telur, mentega, dan ragi. Adonan ini umumnya digoreng hingga berwarna keemasan, dan kemudian sering dihias dengan berbagai macam glasir, gula bubuk, atau taburan lainnya. Donat dapat memiliki berbagai bentuk, tetapi bentuk paling umum adalah cincin dengan lubang di tengahnya, meskipun ada juga donat berbentuk bola atau bentuk lainnya.</item>
+        <item>Mie ayam adalah hidangan populer dalam kuliner Asia, terutama di negara seperti Indonesia, Tiongkok, dan Malaysia. Hidangan ini terdiri dari mie yang dimasak hingga matang, kemudian disajikan dengan irisan daging ayam, irisan sayuran seperti daun bawang atau sawi, dan kadang-kadang tambahan seperti bakso (bulatan daging), jamur, dan pelengkap lainnya.</item>
+        <item>Pizza adalah hidangan asal Italia yang terdiri dari adonan tipis yang biasanya dibuat dari tepung terigu, air, ragi, garam, dan minyak zaitun. Adonan ini kemudian dilapisi dengan saus tomat atau saus tomat dengan bumbu, dan ditaburi dengan berbagai topping seperti keju, pepperoni, jamur, sayuran, dan lainnya sesuai selera.</item>
+        <item>Rendang adalah masakan tradisional Indonesia yang terkenal di seluruh dunia. Ini adalah hidangan daging yang dimasak dalam campuran rempah-rempah, santan, dan bumbu-bumbu lainnya. </item>
+        <item>Sate adalah hidangan yang terdiri dari potongan daging, seperti daging sapi, ayam, kambing, atau bahkan makanan laut, yang ditusuk menggunakan tusukan bambu atau logam, kemudian dipanggang atau dibakar di atas api atau bara.</item>
+        <item>Sosis adalah makanan yang terbuat dari daging cincang, biasanya daging sapi, daging ayam, atau daging babi, yang dicampur dengan berbagai bumbu, garam, dan bahan tambahan lainnya. Campuran ini kemudian dimasukkan ke dalam saluran kulit yang biasanya terbuat dari bahan seperti daging, plastik, atau tahan panas. Setelah itu, sosis bisa direbus, dipanggang, atau digoreng sebelum disajikan.</item>
+        <item>Soto adalah hidangan sup tradisional yang berasal dari Indonesia. Hidangan ini terdiri dari kaldu yang kaya rasa, yang biasanya dibuat dengan merebus daging (seperti daging sapi, ayam, atau kerbau) dengan berbagai rempah-rempah seperti serai, jahe, kunyit, dan daun jeruk. Kaldu ini kemudian disajikan dengan mie atau nasi serta berbagai bahan tambahan seperti tauge, telur rebus, emping, bawang goreng, dan potongan ketupat.</item>
+        <item>Steak adalah potongan daging yang biasanya berasal dari hewan ternak, seperti sapi, domba, atau babi. Potongan daging ini khusus dipilih karena kualitas dan tekstur dagingnya yang baik. Steak seringkali diiris tebal dan kemudian dipanggang, digrill, atau digoreng sesuai dengan preferensi makanan yang diinginkan.</item>
+        <item>Sushi adalah hidangan tradisional Jepang yang terdiri dari nasi yang dicampur dengan cuka beras, yang biasanya dilengkapi dengan berbagai bahan seperti ikan segar, seafood, sayuran, atau telur. Biasanya, sushi disajikan dalam potongan kecil atau gulungan dengan kombinasi yang beragam sesuai selera.</item>
+    </string-array>
+
+    <integer-array name="list_photos">
+        <item>@drawable/burger</item>
+        <item>@drawable/donat</item>
+        <item>@drawable/mie_ayam</item>
+        <item>@drawable/pizza</item>
+        <item>@drawable/rendang</item>
+        <item>@drawable/sate</item>
+        <item>@drawable/sosis</item>
+        <item>@drawable/soto</item>
+        <item>@drawable/steik</item>
+        <item>@drawable/sushi</item>
+    </integer-array>
+</resources>
